@@ -1,0 +1,16 @@
+Overview
+Bitbucket is a web-based hosting service for source code and development projects that use either Mercurial or Git revision control systems.
+
+In this instructor-led, live training, participants will learn how to use Bitbucket as a version control system in a software development environment.
+
+By the end of this training, participants will be able to:
+
+Understand version control concepts such as workflows, branching and merging.
+Use Bitbucket and Git to manage software development and versioning.
+Integrate Bitbucket with other Atlassian software such as Jira, HipChat, Confluence and Bamboo.
+Format of the course
+
+Part lecture, part discussion, exercises and heavy hands-on practice
+Note
+
+If you wish to set up an on-premise Bitbucket server, please contact us to arrange training options.
